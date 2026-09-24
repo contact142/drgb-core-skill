@@ -1,0 +1,4 @@
+interface:
+  display_name: "DRGB Ecosystem Core"
+  short_description: "Ecosystem-wide governed evolution loop"
+  default_prompt: "Use $drgb-core to discover, coordinate, evolve, verify, and synchronize this ecosystem through bounded DRGB authority."
